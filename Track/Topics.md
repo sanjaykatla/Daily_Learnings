@@ -14,11 +14,27 @@
 7. Searching
 8. Sorting
 9. Recursion
+   1. Print all subsequences
+   2. Print any subsequence whose sum is k
+   3. Count subsequences whose sum is k
+   4. Combination Sum
+      1. We ca pick numbers any number of times
+   5. Combination Sum1 II
+   6. Subset sum
+   7. Subset sun II
+      1. Remove duplicate result
+   8. N queens problem
+   9. Sudoku
 10. Back tracking
 11. Trees
 12. Dynamic Programming
     1. House Robber
-    2. 
+       1. Data is organized in a lear data structure
+    2. House Robber II
+    3. House Robber III
+       1. https://leetcode.com/problems/house-robber-iii/description/
+       2. https://www.youtube.com/watch?v=Nt0IqkcxG80
+       3. 
 13. Graph
 
 # Good
