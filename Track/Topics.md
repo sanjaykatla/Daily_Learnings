@@ -28,7 +28,9 @@
 10. Back tracking
 11. Trees
 12. Dynamic Programming
-    1. House Robber
+    1. Fibonacci
+    2. Frog Jump
+    2. House Robber
        1. Data is organized in a lear data structure
     2. House Robber II
     3. House Robber III
