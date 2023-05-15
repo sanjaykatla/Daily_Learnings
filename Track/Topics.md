@@ -30,6 +30,8 @@
 12. Dynamic Programming
     1. Fibonacci
     2. Frog Jump
+    3. Frog Jump II
+    4. Frog Jump III
     2. House Robber
        1. Data is organized in a lear data structure
     2. House Robber II
@@ -38,6 +40,7 @@
        2. https://www.youtube.com/watch?v=Nt0IqkcxG80
        3. 
 13. Graph
+14. Matrix exponentiation
 
 # Good
 
