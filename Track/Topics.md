@@ -32,13 +32,23 @@
     2. Frog Jump
     3. Frog Jump II
     4. Frog Jump III
-    2. House Robber
+    5. House Robber
        1. Data is organized in a lear data structure
-    2. House Robber II
-    3. House Robber III
+    6. House Robber II
+    7. House Robber III
        1. https://leetcode.com/problems/house-robber-iii/description/
        2. https://www.youtube.com/watch?v=Nt0IqkcxG80
-       3. 
+    
+    ```******** grid paths ********```
+    9. Grid Unique Paths
+    9. Grid Unique paths with Obstacles
+    10. Min Grid Path Sum
+    11. Triangle, fixed starting starting variable endpoint
+    12. Variable Starting and Ending Points
+    13. Cherry Pickup II
+
+    ```******** Subsets ********```
+    14. Subset sum equals to target
 13. Graph
 14. Matrix exponentiation
 
