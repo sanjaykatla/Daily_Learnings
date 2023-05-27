@@ -49,6 +49,9 @@
 
     ```******** Subsets ********```
     14. Subset sum equals to target
+    15. Partition Equal Subset Sum
+    16. Count subsets with subset sum K
+    17. Count partitions with given difference
 13. Graph
 14. Matrix exponentiation
 
