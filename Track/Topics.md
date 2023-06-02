@@ -52,7 +52,11 @@
     15. Partition Equal Subset Sum
     16. Partition A Set Into Two Subsets With Minimum Absolute Sum Difference
     17. Count subsets with subset sum K
-    17. Count partitions with given difference
+    18. Count partitions with given difference
+    19. 0/1 Knapsack
+    20. Min number of coins
+    21. Subset sum to target
+    22. Number of Ways to make coin change
 13. Graph
 14. Matrix exponentiation
 
@@ -62,7 +66,7 @@
 2. 
 
 # Weak Areas
-
+  
 1. Graph
 2. Segment Trees
 3. Digit DP
