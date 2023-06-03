@@ -54,9 +54,18 @@
     17. Count subsets with subset sum K
     18. Count partitions with given difference
     19. 0/1 Knapsack
-    20. Min number of coins
+    20. Min number of coins to make target
     21. Subset sum to target
     22. Number of Ways to make coin change
+    23. Unbounded knapsack
+    24. Rod Cutting
+    25. Longest Common Subsequence
+    26. Print LCS
+    27. Longest Common Substring
+    28. Longest Palindromic Subsequence
+    29. Minimum Insertions required to make a string palindrome
+    30. Minimum Insertions / Deletions required to make string A to B
+    31. Shortest Common Superset
 13. Graph
 14. Matrix exponentiation
 
