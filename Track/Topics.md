@@ -71,7 +71,12 @@
     34. Wild card matching
     
     ```******** Stocks ********```
-    35. ...
+    35. Buy and Sell Stock I
+    36. Buy and Sell Stock II
+    37. Buy and Sell Stock III
+    38. Buy and Sell Stock IV
+    39. Buy and Sell Stock with Coll Down
+    40. Buy and Sell Stock with Transaction Fee
 13. Graph
 14. Matrix exponentiation
 
