@@ -66,6 +66,12 @@
     29. Minimum Insertions required to make a string palindrome
     30. Minimum Insertions / Deletions required to make string A to B
     31. Shortest Common Superset
+    32. Distinct Subsequences
+    33. Edit Distance
+    34. Wild card matching
+    
+    ```******** Stocks ********```
+    35. ...
 13. Graph
 14. Matrix exponentiation
 
